@@ -1,0 +1,11 @@
+*.pdf
+*.mht
+*.png
+*.cfg
+
+temperature_scaling.py
+
+/data
+/models
+.ipynb_checkpoints/
+__pycache__/
