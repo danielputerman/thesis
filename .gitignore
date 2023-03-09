@@ -4,6 +4,7 @@
 *.cfg
 
 temperature_scaling.py
+general-test.ipynb
 
 /data
 /models
