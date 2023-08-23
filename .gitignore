@@ -1,6 +1,5 @@
 *.pdf
 *.mht
-*.png
 *.cfg
 
 temperature_scaling.py
